@@ -1,4 +1,4 @@
-# ShoalinVsWutangVR
+# ShaolinVsWutangVR
 Shaolin Vs. Wutang 2 VR mod
 
 Steam Page: https://store.steampowered.com/app/1217050/Shaolin_vs_Wutang_2/
